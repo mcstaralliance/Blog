@@ -17,7 +17,7 @@ params:
           url: "index.xml"
   editPost:
         URL: "https://github.com/mcstaralliance/Blog/tree/main/content"
-        Text: "我有建议"
+        Text: "Suggest Changes"
         appendFilePath: true
 
 languages:
