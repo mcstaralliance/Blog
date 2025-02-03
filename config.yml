@@ -6,9 +6,7 @@ params:
   homeInfoParams:
         Title: "欢迎来到星域博客。"
         Content: >
-            管理组会在这里随笔，不过大概率只有服主在写。
 
-            - 欢迎玩家投稿，我们会署名。
 
   socialIcons:
         - name: github
